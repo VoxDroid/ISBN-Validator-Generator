@@ -1,0 +1,3 @@
+C:/Users/Drei/CLionProjects/ISBNVG/cmake-build-debug/CMakeFiles/ISBNVG.dir
+C:/Users/Drei/CLionProjects/ISBNVG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Drei/CLionProjects/ISBNVG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
